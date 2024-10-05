@@ -1,5 +1,3 @@
-
-```markdown
 # CRUD Operation with Spring Boot
 
 ## Description
