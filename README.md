@@ -77,9 +77,6 @@ For any inquiries or support, feel free to reach out to me:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Author
-**Sandeep Kushwaha**
+**Sandeep Kushwaha
+   7024520740**
 ```
-
-### Notes:
-- The contact link `[Contact Me](tel:+917024520740)` will create a clickable link that allows users to call your number directly if they view this on a compatible device (like a smartphone).
-- Remember to replace `https://github.com/your-username/crud-operation.git` with the actual repository URL and `<YOUR_PASSWORD_HERE>` with your password when finalizing this README file. Let me know if you need further adjustments!
