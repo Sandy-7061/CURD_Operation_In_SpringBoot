@@ -1,4 +1,4 @@
-# CRUD Operation with Spring Boot
+# CURD Operation with Spring Boot
 
 ## Description
 The **CRUD Operation with Spring Boot** project implements a robust RESTful API for managing department entities within a database. The application allows users to perform the following operations on departments:
